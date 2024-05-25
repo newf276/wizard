@@ -1,6 +1,6 @@
 name="Newf"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/k571f99bm25sbycf2fgn7/newf.zip?rlkey=86au7xem2rvac145pm0ropb4h&st=usvwjf9h&dl=1"
+url="https://www.dropbox.com/scl/fi/k571f99bm25sbycf2fgn7/newf.zip?rlkey=86au7xem2rvac145pm0ropb4h&st=e6zy9qrk&dl=01"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/nk3d9k6g4ssvnvg1pie8p/newf_guisettings.zip?rlkey=ys979mr86v727xus2bux4nts2&st=z8uq8b5d&dl=1"
 kodi="21.0"
