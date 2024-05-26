@@ -1,4 +1,4 @@
-name="Newf"
+name="Newf-Finder"
 version="1.0"
 url="https://www.dropbox.com/scl/fi/79h1fup4iiksn7xucbb72/Newf.zip?rlkey=cl8plt5micxld0j5qkz0xp6e2&st=ye0wn3ql&dl=1"
 minor="http://"
