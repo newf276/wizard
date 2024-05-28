@@ -14,7 +14,7 @@ description="You NEED to have either RealDebrid, or Premiumize for this build to
 
 name="Newf-Popcorn Build"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/94opeef8l8ezsr3sjz26q/Popcorn.zip?rlkey=hw9y008xda4s1dswql9jod614&st=l3o1dl5z&dl=0"
+url="https://www.dropbox.com/scl/fi/94opeef8l8ezsr3sjz26q/Popcorn.zip?rlkey=hw9y008xda4s1dswql9jod614&st=l3o1dl5z&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/w6y8w4yigxmultyfl5x0z/Popcorn_guisettings.zip?rlkey=3898jgyd2x0gfbyywgc9ljliy&st=89qulqvc&dl=1"
 kodi="21.0"
