@@ -10,11 +10,11 @@ fanart="https://raw.githubusercontent.com/newf276/wizard/master/finder-fanart.jp
 preview="https://"
 adult="no"
 info="https://raw.githubusercontent.com/newf276/wizard/master/Build%20Info/Finder.txt"
-description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Finder Addon)"
+description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Finder Addon) This build is designed around your Trakt Collection, Movie and TVShow Menus take you to your trakt show or movie colllection, and the next up widget on home screen of Festuary (basically estuary) shows your next episode and some other widgets for non Trakt collection options. You need to have a Trakt account and must activate in Finder addon (fork of FenLight addon)settings.  This build is meant for speed and simplicity."
 
 name="Popcorn"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/94opeef8l8ezsr3sjz26q/Popcorn.zip?rlkey=hw9y008xda4s1dswql9jod614&st=1oiagmb6&dl=1"
+url="https://www.dropbox.com/scl/fi/vhgr7o7j4wopa8q5ls3gb/Popcorn.zip?rlkey=3bttv42hzrrlw0nqg9nbcvuxj&st=0ugdiyyb&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/w6y8w4yigxmultyfl5x0z/Popcorn_guisettings.zip?rlkey=3898jgyd2x0gfbyywgc9ljliy&st=i07cdnqm&dl=1"
 kodi="21.0"
@@ -24,7 +24,7 @@ fanart="https://raw.githubusercontent.com/newf276/wizard/master/popcorn-fanart.j
 preview="https://"
 adult="no"
 info="https://raw.githubusercontent.com/newf276/wizard/master/Build%20Info/Popcorn.txt"
-description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Popcorn Addon)"
+description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of Popcorn Addon) This build is designed around your Trakt Collection, Movie and TVShow Menus take you to your trakt show or movie colllection, and the next up widget on home screen of Festuary (basically estuary) shows your next episode and some other widgets for non Trakt collection options. You need to have a Trakt account and must activate in Popcorn addon settings.  This build is meant for speed and simplicity."
 
 name="FenLight"
 version="1.0"
@@ -38,4 +38,4 @@ fanart="https://raw.githubusercontent.com/newf276/wizard/master/fenlight-fanart.
 preview="https://"
 adult="no"
 info="https://raw.githubusercontent.com/newf276/wizard/master/Build%20Info/FenLight.txt"
-description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of FenLight Addon)"
+description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of FenLight Addon) This build is designed around your Trakt Collection, Movie and TVShow Menus take you to your trakt show or movie colllection, and the next up widget on home screen of Festuary (basically estuary) shows your next episode and some other widgets for non Trakt collection options. You need to have a Trakt account and must activate in FenLight addon settings.  This build is meant for speed and simplicity."
