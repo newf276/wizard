@@ -1,4 +1,4 @@
-name="Newf-Finder Build"
+name="Newf"
 extracted="126767511"
 zipsize="88019684"
 skin="Finder Skin"
