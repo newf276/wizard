@@ -1,6 +1,6 @@
 name="Finder"
 version="1.0"
-url="https://www.dropbox.com/scl/fi/asqjapmh43ue52covfvk2/Finder.zip?rlkey=rcimtqda8pckop2gj74fq69py&st=icdpvzwt&dl=1"
+url="https://www.dropbox.com/scl/fi/asqjapmh43ue52covfvk2/Finder.zip?rlkey=rcimtqda8pckop2gj74fq69py&st=e1dn6gzf&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/48wqmciruiug1jinaojyk/Finder_guisettings.zip?rlkey=dpuqzs9covd93sowrxi8n8q0w&st=6nly4vdr&dl=1"
 kodi="21.0"
