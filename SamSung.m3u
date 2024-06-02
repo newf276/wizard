@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/newf276/iptv-cutter/raw/master/SamSungTVPlus_ALL.xml"
 #EXTINF:0 tvg-name="ABC News Live" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="News",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:0 tvg-name="BBC News" tvg-id="US4000033L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4000033L_20240520T223600SQUARE.png" group-title="News",BBC News
@@ -9,6 +9,8 @@ https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:0 tvg-name="CBS News" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="News",CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+#EXTINF:0  group-title="News" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" tvg-id="ctvnewschannel.ca" tvg-name="CTV News LG",CTV News LG
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:0 tvg-name="CNN" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="News",CNN
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:0 tvg-name="Euronews Live" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="News",Euronews Live
@@ -17,7 +19,7 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
 #EXTINF:0 tvg-name="LiveNOW from FOX" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20240520T222706SQUARE.png" group-title="News",LiveNOW from FOX
 https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:0 group-title="News" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" tvg-id="globalnewsbc1.ca" tvg-name="Global News BC",Global News BC
+#EXTINF:0 group-title="News" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" tvg-id="62cbf063257170000724590c" tvg-name="Global News BC",Global News BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 #EXTINF:0 tvg-name="NBC News NOW" tvg-id="USBB2200014DK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2200014DK_20240520T222732SQUARE.png" group-title="News",NBC News NOW
 https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
@@ -53,6 +55,14 @@ https://i.mjh.nz/SamsungTVPlus/CABB19000010Y.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
 #EXTINF:0 tvg-name="Comedy Movies - Rakuten TV" tvg-id="GBAJ4900007I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20231213T033108SQUARE.png_20231213033109.png" group-title="Entertainment",Comedy Movies - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://www.goodwill.ab.ca/wp-content/uploads/2019/07/CTV.jpg" tvg-id="ctvgridlock.ca" tvg-name="CTV Gridlock LG",CTV Gridlock LG
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvgridlock-lgca/playlist.m3u8
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://www.goodwill.ab.ca/wp-content/uploads/2019/07/CTV.jpg" tvg-id="ctvhome.ca" tvg-name="CTV Home LG",CTV Home LG
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://www.goodwill.ab.ca/wp-content/uploads/2019/07/CTV.jpg" tvg-id="ctvlaughs.ca" tvg-name="CTV Laughs LG",CTV Laughs LG
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvlaughs-lgca/playlist.m3u8
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://www.goodwill.ab.ca/wp-content/uploads/2019/07/CTV.jpg" tvg-id="ctvthemightiest.ca" tvg-name="CTV The Mightiest LG",CTV The Mightiest LG
+https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-themightiestbyctv-lgca/playlist.m3u8
 #EXTINF:0 tvg-name="Documentary+" tvg-id="CABC2300019UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20221214T015232SQUARE.png_20221214015232.png" group-title="Entertainment",Documentary+
 https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 #EXTINF:0 tvg-name="Drama Movies - Rakuten TV" tvg-id="GBAJ49000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" group-title="Entertainment",Drama Movies - Rakuten TV
