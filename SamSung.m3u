@@ -69,8 +69,6 @@ https://i.mjh.nz/SamsungTVPlus/CABB19000010Y.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
 #EXTINF:0 tvg-name="Comedy Movies - Rakuten TV" tvg-id="GBAJ4900007I2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900007I2_20231213T033108SQUARE.png_20231213033109.png" group-title="Entertainment",Comedy Movies - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-#EXTINF:0 tvg-name="CTV Home LG" group-title="Entertainment" tvg-logo="https://www.goodwill.ab.ca/wp-content/uploads/2019/07/CTV.jpg" tvg-id="ca#810952721/ctv-life-channel-hdtv" ,CTV Home LG
-https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvhome-lgca/playlist.m3u8
 #EXTINF:0 tvg-name="Documentary+" tvg-id="CABC2300019UD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300019UD_20221214T015232SQUARE.png_20221214015232.png" group-title="Entertainment",Documentary+
 https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 #EXTINF:0 tvg-name="Drama Movies - Rakuten TV" tvg-id="GBAJ49000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" group-title="Entertainment",Drama Movies - Rakuten TV
