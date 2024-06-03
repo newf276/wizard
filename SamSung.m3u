@@ -17,14 +17,18 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:0 tvg-name="Bloomberg TV+" tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png" group-title="News",Bloomberg TV+
 https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+#EXTINF:0 tvg-name="CBC News Gem" tvg-id="ca#69043514/cbc-news-network" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/406/847/NN.jpg" group-title="News",CBC News Gem
+https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:0 tvg-name="CBC News Explore" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="News",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:0 tvg-name="CBS News" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="News",CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
 #EXTINF:0  group-title="News" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" tvg-id="ctvnewschannel.ca" tvg-name="CTV News Highlights",CTV News Highlights
 https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
-#EXTINF:0 tvg-name="CNN" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="News",CNN
+#EXTINF:0 tvg-name="CNN" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="News",CNN Fast
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:0 tvg-name="CNN" tvg-id="ca#69030702/cable-news-network-hdtv" tvg-logo="https://media.tv4.live/cnn.ca.png" group-title="News",CNN Live
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 #EXTINF:0 group-title="News" tvg-logo="https://logo.iptveditor.com/dwdeutsch.png" tvg-id="ca#69044840/dw-english" tvg-name="DW News",DW News
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-name="Euronews Live" tvg-id="GBAJ4900020VP" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ4900020VP_20230222T011312SQUARE.png_20230222011313.png" group-title="News",Euronews Live
@@ -157,6 +161,8 @@ https://i.mjh.nz/SamsungTVPlus/CABB2600018T4.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABD1200023UJ.m3u8
 #EXTINF:0 tvg-name="XITE Country Today" tvg-id="CABD120001993" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD120001993_20231114T233335SQUARE.png_20231114233336.png" group-title="Music",XITE Country Today
 https://i.mjh.nz/SamsungTVPlus/CABD120001993.m3u8
+#EXTINF:0 tvg-name="XITE Countrys Finest" tvg-id="CABD1200023UJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200023UJ_20231114T233337SQUARE.png_20231114233338.png" group-title="Music",XITE Countrys Finest
+https://i.mjh.nz/SamsungTVPlus/CABD1200023UJ.m3u8
 #EXTINF:0 tvg-name="XITE Hits" tvg-id="CABD1200038NZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200038NZ_20231114T233340SQUARE.png_20231114233341.png" group-title="Music",XITE Hits
 https://i.mjh.nz/SamsungTVPlus/CABD1200038NZ.m3u8
 #EXTINF:0 tvg-name="XITE Icons" tvg-id="CABD1200039HG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200039HG_20231114T233342SQUARE.png_20231114233343.png" group-title="Music",XITE Icons
