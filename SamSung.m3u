@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml, https://epgshare01.online/epgshare01/epg_ripper_TR2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://i.mjh.nz/PlutoTV/ca.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://i.mjh.nz/PlutoTV/ca.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
 #EXTINF:0 tvg-name="CBC Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" ,CBC Vancouver
 http://10.0.0.73:5004/auto/v2.1
 #EXTINF:0 tvg-name="Chek Victoria" group-title="Locals" tvg-logo="https://logo.iptveditor.com/chek.png" tvg-id="CHEK.(CHEK).ca" ,Chek Victoria
@@ -43,7 +43,7 @@ https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:0 tvg-name="The Guardian" tvg-id="GBAJ2400003DD" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ2400003DD_20220323T071326SQUARE.png_20220323071329.png" group-title="News",The Guardian
 https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-#EXTINF:0 tvg-name="TRT World" group-title="News" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" tvg-id="TRT.World.tr" ,TRT World
+#EXTINF:0 tvg-name="TRT World" group-title="News" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" tvg-id="TRT.World.HD.tr" ,TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-name="Weather Network" tvg-id="CABC23000223U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC23000223U_20230222T042958SQUARE.png_20230222042958.png" group-title="News",Weather Network
 https://i.mjh.nz/SamsungTVPlus/CABC23000223U.m3u8
