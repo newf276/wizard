@@ -53,7 +53,7 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200012B8.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABC5200006AL.m3u8
 #EXTINF:0 tvg-name="CBC Comedy" tvg-id="CABD1200043OK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20240527T200835SQUARE.png" group-title="Entertainment",CBC Comedy
 https://i.mjh.nz/SamsungTVPlus/CABD1200043OK.m3u8
-#EXTINF:0 tvg-name="CBC Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" ,CBC Vancouver
+#EXTINF:0 tvg-name="CBC Vancouver" group-title="Entertainment" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" ,CBC Vancouver
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:0 tvg-name="Circle" tvg-id="CABB19000010Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB19000010Y_20220525T021919SQUARE.png_20220525021919.png" group-title="Entertainment",Circle
 https://i.mjh.nz/SamsungTVPlus/CABB19000010Y.m3u8
