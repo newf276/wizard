@@ -1,14 +1,4 @@
 #EXTM3U url-tvg="https://i.mjh.nz/SamsungTVPlus/all.xml, https://epgshare01.online/epgshare01/epg_ripper_TR1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz, https://i.mjh.nz/PlutoTV/ca.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz"
-#EXTINF:0 tvg-name="CBC Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" ,CBC Vancouver
-http://10.0.0.73:5004/auto/v2.1
-#EXTINF:0 tvg-name="Chek Victoria" group-title="Locals" tvg-logo="https://logo.iptveditor.com/chek.png" tvg-id="CHEK.(CHEK).ca" ,Chek Victoria
-http://10.0.0.73:5004/auto/v6.1
-#EXTINF:0 tvg-name="CTV Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/CIVT.ca.png" tvg-id="CTV.Vancouver,.British.Columbia.HDTV.(CTVBCHD).ca" ,CTV Vancouver
-http://10.0.0.73:5004/auto/v32.1
-#EXTINF:0 tvg-name="CTV2 Victoria" group-title="Locals" tvg-logo="https://static.epg.best/ca/CTV2Vancouver.ca.png" tvg-id="CTV.Two.Vancouver.Island/CIVI.HDTV.(CTV2V).ca" ,CTV2 Victoria
-http://10.0.0.73:5004/auto/v17.1
-#EXTINF:0 tvg-name="Global Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" tvg-id="Global.BC.HDTV.(CHANHD).ca" ,Global Vancouver
-http://10.0.0.73:5004/auto/v8.1
 #EXTINF:0 tvg-name="ABC News Live" tvg-id="USBC39000171G" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC39000171G_20240520T223555SQUARE.png" group-title="News",ABC News Live
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:0 tvg-name="Al Jazeera" group-title="News" tvg-logo="https://logo.iptveditor.com/aljazeeratv.png" tvg-id="Al.Jazeera.(English.-.North.America).(ALJAZEE).ca" ,Al Jazeera
@@ -17,13 +7,13 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:0 tvg-name="Bloomberg TV+" tvg-id="GBBA3300033C2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300033C2_20221026T004719SQUARE.png_20221026004720.png" group-title="News",Bloomberg TV+
 https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
-#EXTINF:0 tvg-name="CBC News Gem" tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/406/847/NN.jpg" group-title="News",CBC News Gem
+#EXTINF:0 tvg-name="CBC News Fast" tvg-id="CBC.News.Network.HDTV.(CBCNEWHD).ca" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/406/847/NN.jpg" group-title="News",CBC News Fast
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 #EXTINF:0 tvg-name="CBC News Explore" tvg-id="CABC2300009KD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300009KD_20240527T200831SQUARE.png" group-title="News",CBC News Explore
 https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
 #EXTINF:0 tvg-name="CBS News" tvg-id="USBA370000104" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA370000104_20240520T222610SQUARE.png" group-title="News",CBS News
 https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
-#EXTINF:0 tvg-name="CTV News Highlights" group-title="News" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" tvg-id="CTV.News.Channel.HDTV.(CTVNC).ca" ,CTV News Highlights
+#EXTINF:0 tvg-name="CTV News Fast" group-title="News" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" tvg-id="CTV.News.Channel.HDTV.(CTVNC).ca" ,CTV News Fast
 https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 #EXTINF:0 tvg-name="CNN" tvg-id="GBBD8000016N" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD8000016N_20230308T021053SQUARE.png_20230308021054.png" group-title="News",CNN Fast
 https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
@@ -63,6 +53,8 @@ https://i.mjh.nz/SamsungTVPlus/CABD1200012B8.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABC5200006AL.m3u8
 #EXTINF:0 tvg-name="CBC Comedy" tvg-id="CABD1200043OK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200043OK_20240527T200835SQUARE.png" group-title="Entertainment",CBC Comedy
 https://i.mjh.nz/SamsungTVPlus/CABD1200043OK.m3u8
+#EXTINF:0 tvg-name="CBC Vancouver" group-title="Locals" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" tvg-id="CBC.Vancouver.HDTV.(CBUTHD).ca" ,CBC Vancouver
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 #EXTINF:0 tvg-name="Circle" tvg-id="CABB19000010Y" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB19000010Y_20220525T021919SQUARE.png_20220525021919.png" group-title="Entertainment",Circle
 https://i.mjh.nz/SamsungTVPlus/CABB19000010Y.m3u8
 #EXTINF:0 tvg-name="Comedy Hub" tvg-id="GBBD25000038Y" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD25000038Y_20240214T034901SQUARE.png_20240214034901.png" group-title="Entertainment",Comedy Hub
