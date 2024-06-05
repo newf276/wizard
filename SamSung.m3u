@@ -65,16 +65,10 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
 https://i.mjh.nz/SamsungTVPlus/CABC2300019UD.m3u8
 #EXTINF:0 tvg-name="Drama Movies - Rakuten TV" tvg-id="GBAJ49000081B" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ49000081B_20220323T071414SQUARE.png_20220323071417.png" group-title="Entertainment",Drama Movies - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-#EXTINF:0 tvg-name="Earth Touch" tvg-id="GBBD3200001E2" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3200001E2_20230913T031531SQUARE.png_20230913031531.png" group-title="Entertainment",Earth Touch
-https://i.mjh.nz/SamsungTVPlus/GBBD3200001E2.m3u8
 #EXTINF:0 tvg-name="FailArmy" tvg-id="CAAJ2700029OC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ2700029OC_20220621T075643SQUARE.png_20220621075645.png" group-title="Entertainment",FailArmy
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700029OC.m3u8
 #EXTINF:0 tvg-name="Family - Rakuten TV" tvg-id="GBBA3300024F7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300024F7_20240117T032823SQUARE.png_20240117032824.png" group-title="Entertainment",Family - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
-#EXTINF:0 tvg-name="FilmRise Free Movies" tvg-id="CAAJ40000077N" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20240319T022621SQUARE.png" group-title="Entertainment",FilmRise Free Movies
-https://i.mjh.nz/SamsungTVPlus/CAAJ40000077N.m3u8
-#EXTINF:0 tvg-name="FilmRise Western" tvg-id="CAAJ27000159K" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ27000159K_20240213T215446SQUARE.png_20240213215447.png" group-title="Entertainment",FilmRise Western
-https://i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8
 #EXTINF:0 tvg-name="Gravitas Movies" tvg-id="CABD1200001SY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABD1200001SY_20231229T002827SQUARE.png_20231229002828.png" group-title="Entertainment",Gravitas Movies
 https://i.mjh.nz/SamsungTVPlus/CABD1200001SY.m3u8
 #EXTINF:0 tvg-name="Grjngo - Western Movies" tvg-id="GBBD500007TG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500007TG_20230413T013222SQUARE.png_20230413013223.png" group-title="Entertainment",Grjngo - Western Movies
@@ -99,8 +93,8 @@ https://i.mjh.nz/SamsungTVPlus/CAAJ3400017AE.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
 #EXTINF:0 tvg-name="MovieSphere" tvg-id="GBBA33000557H" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA33000557H_20221201T014509SQUARE.png_20221201014510.png" group-title="Entertainment",MovieSphere
 https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
-#EXTINF:0 tvg-name="MyTime Movie Network" tvg-id="GBBA3300059BU" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20220323T071510SQUARE.png_20220323071512.png" group-title="Entertainment",MyTime Movie Network
-https://i.mjh.nz/SamsungTVPlus/GBBA3300059BU.m3u8
+#EXTINF:0 tvg-name="MyTime Movie Network" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300059BU_20220323T071510SQUARE.png_20220323071512.png" group-title="Entertainment",MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
 #EXTINF:0 tvg-name="People Are Awesome" tvg-id="CAAJ34000089L" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ34000089L_20220330T044316SQUARE.png_20220330044317.png" group-title="Entertainment",People Are Awesome
 https://i.mjh.nz/SamsungTVPlus/CAAJ34000089L.m3u8
 #EXTINF:0 tvg-name="Pluto TV Animals" tvg-id="GBAJ700001FH" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAJ700001FH_20221026T004652SQUARE.png_20221026004652.png" group-title="Entertainment",Pluto TV Animals
@@ -111,8 +105,6 @@ https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
 https://i.mjh.nz/SamsungTVPlus/GBAK3504504A.m3u8
 #EXTINF:0 tvg-name="Pluto TV Romance" tvg-id="GBAK3504522A" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBAK3504522A_20221026T004659SQUARE.png_20221026004659.png" group-title="Entertainment",Pluto TV Romance
 https://i.mjh.nz/SamsungTVPlus/GBAK3504522A.m3u8
-#EXTINF:0 tvg-name="Real Wild" tvg-id="GBBB1000005IO" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBB1000005IO_20230426T015620SQUARE.png_20230426015620.png" group-title="Entertainment",Real Wild
-https://i.mjh.nz/SamsungTVPlus/GBBB1000005IO.m3u8
 #EXTINF:0 tvg-name="Romance Movies - Rakuten TV" tvg-id="GBBA3300020DM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBA3300020DM_20230322T075406SQUARE.png_20230322075406.png" group-title="Entertainment",Romance Movies - Rakuten TV
 https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
 #EXTINF:0 tvg-name="Sky Mix" tvg-id="GBBD3100006XM" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD3100006XM_20231213T033116SQUARE.png_20231213033116.png" group-title="Entertainment",Sky Mix
