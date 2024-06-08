@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.bevy.be/generate/pooVcAFgfH.xml, https://www.bevy.be/generate/pooVcAFgfH.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml, https://www.bevy.be/generate/pooVcAFgfH.xml"
 
 #EXTINF:-1 tvg-id="CBC (CBUT) Vancouver, BC.ca" tvg-name="CBC Vancouver" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals" ,CBC Vancouver
 http://10.0.0.73:5004/auto/v2.1
