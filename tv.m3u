@@ -150,8 +150,7 @@ https://r.mjh.nz/PlutoTV/62bdb6a83c6e37000726823b-alt.m3u8
 #EXTINF:-1 tvg-name="Nick Jr Pluto TV" tvg-id="62bdb75c3afd1200079146a6" tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" group-title="Entertainment" ,Nick Jr Pluto TV
 https://r.mjh.nz/PlutoTV/62bdb75c3afd1200079146a6-alt.m3u8
 
-#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-
-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment" , Paramount Movie Channel
+#EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment" ,Paramount Movie Channel
 https://r.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
 
 #EXTINF:-1 tvg-name="Paramount+ Picks" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment" ,Paramount+ Picks
@@ -246,12 +245,6 @@ https://r.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 
 #EXTINF:-1 tvg-name="XITE Country Today" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Country Today Country
 https://i.mjh.nz/SamsungTVPlus/CABD120001993.m3u8
-
-#EXTINF:-1 tvg-name="XITE Countrys Finest" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Countrys Finest
-https://i.mjh.nz/SamsungTVPlus/CABD1200023UJ.m3u8
-
-#EXTINF:-1 tvg-name="XITE Classic Country" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Classic Country
-https://r.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8
 
 #EXTINF:-1 tvg-name="XITE Rock" tvg-id="623a1b5188ecdc0007c9ef5a" tvg-logo="https://images.pluto.tv/channels/623a1b5188ecdc0007c9ef5a/colorLogoPNG.png" group-title="Music" ,XITE Rock
 https://r.mjh.nz/PlutoTV/623a1b5188ecdc0007c9ef5a-alt.m3u8
