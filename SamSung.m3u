@@ -69,7 +69,7 @@ https://r.mjh.nz/PlutoTV/5fb5836fe745b600070fc743-alt.m3u8
 #EXTINF:-1 tvg-name="Beyond History" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Entertainment" ,Beyond History
 https://r.mjh.nz/PlutoTV/62fb9844db5a4a0007ebc2a3-alt.m3u8
 
-#EXTINF:-1 tvg-name="CBC Vancouver" tvg-id="CBC (CBUT) Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Entertainment" ,CBC Vancouver
+#EXTINF:-1 tvg-name="CBC Vancouver" tvg-id="I251.10100.zap2it.com" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Entertainment" ,CBC Vancouver
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
 #EXTINF:-1 tvg-name="CMT Pluto TV" tvg-id="5dcc42446750e200093b15e2" tvg-logo="https://images.pluto.tv/channels/5dcc42446750e200093b15e2/colorLogoPNG.png" group-title="Entertainment" ,CMT Pluto TV
