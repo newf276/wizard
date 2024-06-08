@@ -1,57 +1,57 @@
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml, https://www.bevy.be/generate/pooVcAFgfH.xml"
 
-#EXTINF:-1 tvg-id="CBC (CBUT) Vancouver, BC.ca" tvg-name="CBC Vancouver" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals" ,CBC Vancouver
+#EXTINF:-1 tvg-name="CBC Vancouver" tvg-id="CBC (CBUT) Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CBUT.ca.png" group-title="Locals" ,CBC Vancouver
 http://10.0.0.73:5004/auto/v2.1
 
-#EXTINF:-1 tvg-id="CHEK Vancouver Island, BC.ca" tvg-name="Chek Victoria" tvg-logo="https://logo.iptveditor.com/chek.png" group-title="Locals" ,Chek Victoria
+#EXTINF:-1 tvg-name="Chek Victoria" tvg-id="CHEK Vancouver Island, BC.ca" tvg-logo="https://logo.iptveditor.com/chek.png" group-title="Locals" ,Chek Victoria
 http://10.0.0.73:5004/auto/v6.1
 
-#EXTINF:-1 tvg-id="CITY Vancouver, BC.ca" tvg-name="CityTV Vancouver" tvg-logo="https://static.epg.best/ca/CityTVVancouver.ca.png" group-title="Locals" ,CityTV Vancouver
+#EXTINF:-1 tvg-name="CityTV Vancouver" tvg-id="CITY Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CityTVVancouver.ca.png" group-title="Locals" ,CityTV Vancouver
 http://10.0.0.73:5004/auto/v10.1
 
-#EXTINF:-1 tvg-id="CTV Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CIVT.ca.png" tvg-name="CTV Vancouver" group-title="Locals" ,CTV Vancouver
+#EXTINF:-1 tvg-name="CTV Vancouver" tvg-id="CTV Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CIVT.ca.png" group-title="Locals" ,CTV Vancouver
 http://10.0.0.73:5004/auto/v32.1
 
-#EXTINF:-1 tvg-id="CTV2 (CIVI-DT2) Vancouver, BC.ca" tvg-name="CTV2 Victoria" tvg-logo="https://static.epg.best/ca/CTV2Vancouver.ca.png" group-title="Locals" ,CTV2 Victoria
+#EXTINF:-1 tvg-name="CTV2 Victoria" tvg-id="CTV2 (CIVI-DT2) Vancouver, BC.ca" tvg-logo="https://static.epg.best/ca/CTV2Vancouver.ca.png" group-title="Locals" ,CTV2 Victoria
 http://10.0.0.73:5004/auto/v17.1
 
-#EXTINF:-1 tvg-id="Global BC.ca" tvg-name="Global Vancouver" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" group-title="Locals" ,Global Vancouver
+#EXTINF:-1 tvg-name="Global Vancouver" tvg-id="Global BC.ca" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" group-title="Locals" ,Global Vancouver
 http://10.0.0.73:5004/auto/v8.1
 
-#EXTINF:-1 tvg-id="CBC News Network HD.ca" tvg-name="CBC News Network" tvg-id="cbcnewsnetwork.ca" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/406/847/NN.jpg" group-title="Locals",CBC News Network
+#EXTINF:-1 tvg-name="CBC News Network" tvg-id="CBC News Network HD.ca" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/406/847/NN.jpg" group-title="Locals" ,CBC News Network
 https://cbcrclinear-tor.akamaized.net/hls/live/2042769/geo_allow_ca/CBCRCLINEAR_TOR_15/master5.m3u8
 
-#EXTINF:-1 tvg-id="CTV News Channel.ca" tvg-name="CTV News Fast" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" group-title="Locals",CTV News Fast
+#EXTINF:-1 tvg-name="CTV News Fast" tvg-id="CTV News Channel.ca" tvg-logo="https://static.epg.best/ca/CTVNC.ca.png" group-title="Locals" ,CTV News Fast
 https://amg00089-bellmedia-amg00089c11-lg-ca-3226.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
 
-#EXTINF:-1 tvg-id="62cbf063257170000724590c" tvg-name="Global News BC" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" group-title="News" ,Global News BC
+#EXTINF:-1 tvg-name="Global News BC" tvg-id="62cbf063257170000724590c" tvg-logo="https://static.epg.best/ca/GlobalBC.ca.png" group-title="News" ,Global News BC
 https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/master.m3u8
 
-#EXTINF:-1 tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News",ABC News Live
+#EXTINF:-1 tvg-name="ABC News Live" tvg-id="6508be683a0d700008c534e4" tvg-logo="https://images.pluto.tv/channels/6508be683a0d700008c534e4/colorLogoPNG.png" group-title="News" ,ABC News Live
 https://r.mjh.nz/PlutoTV/6508be683a0d700008c534e4-alt.m3u8
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera" tvg-logo="https://logo.iptveditor.com/aljazeeratv.png" group-title="News",Al Jazeera
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="AlJazeeraEnglish.qa" tvg-logo="https://logo.iptveditor.com/aljazeeratv.png" group-title="News" ,Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News",BBC News
+#EXTINF:-1 tvg-name="BBC News" tvg-id="65d92a8c8b24c80008e285c0" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" group-title="News" ,BBC News
 https://r.mjh.nz/PlutoTV/65d92a8c8b24c80008e285c0-alt.m3u8
 
-#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News",Bloomberg TV+
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-id="54ff7ba69222cb1c2624c584" tvg-logo="https://images.pluto.tv/channels/54ff7ba69222cb1c2624c584/colorLogoPNG.png" group-title="News" ,Bloomberg TV+
 https://r.mjh.nz/PlutoTV/54ff7ba69222cb1c2624c584-alt.m3u8
 
-#EXTINF:-1 tvg-name="CBS News" tvg-id="6350fdd266e9ea0007bedec5" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png" group-title="News",CBS News
+#EXTINF:-1 tvg-name="CBS News" tvg-id="6350fdd266e9ea0007bedec5" tvg-logo="https://images.pluto.tv/channels/6350fdd266e9ea0007bedec5/colorLogoPNG.png" group-title="News" ,CBS News
 https://r.mjh.nz/PlutoTV/6350fdd266e9ea0007bedec5-alt.m3u8
 
-#EXTINF:-1 tvg-name="CNN Headlines" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="News",CNN Headlines
+#EXTINF:-1 tvg-name="CNN Headlines" tvg-id="5421f71da6af422839419cb3" tvg-logo="https://images.pluto.tv/channels/5421f71da6af422839419cb3/colorLogoPNG.png" group-title="News" ,CNN Headlines
 https://r.mjh.nz/PlutoTV/5421f71da6af422839419cb3-alt.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-id="CNN HD.ca" tvg-logo="https://media.tv4.live/cnn.ca.png" group-title="News",CNN Live
+#EXTINF:-1 tvg-name="CNN" tvg-id="CNN HD.ca" tvg-logo="https://media.tv4.live/cnn.ca.png" group-title="News" ,CNN Live
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 
 #EXTINF:-1 tvg-name="DW News" group-title="News" tvg-logo="https://logo.iptveditor.com/dwdeutsch.png" tvg-id="DW English - DW.us" ,DW News
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-name="Euronews Live" tvg-id="60492dcf1c9b6a00089f41df" tvg-logo="https://images.pluto.tv/channels/60492dcf1c9b6a00089f41df/colorLogoPNG.png" group-title="News",Euronews Live
+#EXTINF:-1 tvg-name="Euronews Live" tvg-id="60492dcf1c9b6a00089f41df" tvg-logo="https://images.pluto.tv/channels/60492dcf1c9b6a00089f41df/colorLogoPNG.png" group-title="News" ,Euronews Live
 https://r.mjh.nz/PlutoTV/60492dcf1c9b6a00089f41df-alt.m3u8
 
 #EXTINF:-1 tvg-name="France 24" tvg-id="France24English.fr" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100002L5_20230823T033121SQUARE.png_20230823033121.png" group-title="News" , France 24
@@ -63,13 +63,13 @@ https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737d
 #EXTINF:-1 tvg-name="NBC News NOW" tvg-id="5df97894467dfa00091c873c" tvg-logo="https://images.pluto.tv/channels/5df97894467dfa00091c873c/colorLogoPNG.png" group-title="News" ,NBC News NOW
 https://r.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8
 
-#EXTINF:-1 tvg-name="Sky News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News",Sky News
+#EXTINF:-1 tvg-name="Sky News" tvg-id="55b285cd2665de274553d66f" tvg-logo="https://images.pluto.tv/channels/55b285cd2665de274553d66f/colorLogoPNG.png" group-title="News" ,Sky News
 https://r.mjh.nz/PlutoTV/55b285cd2665de274553d66f-alt.m3u8
 
 #EXTINF:-1 tvg-name="TRT World" tvg-id="TRTWorldHD.tr" tvg-logo="https://static.epg.best/tr/TRTWorld.tr.png" group-title="News" ,TRT World
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 
-#EXTINF:-1 tvg-name="Weather Network" tvg-id="63da370e2e477400081cf8b6" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" group-title="News",Weather Network
+#EXTINF:-1 tvg-name="Weather Network" tvg-id="63da370e2e477400081cf8b6" tvg-logo="https://images.pluto.tv/channels/63da370e2e477400081cf8b6/colorLogoPNG.png" group-title="News" ,Weather Network
 https://r.mjh.nz/PlutoTV/63da370e2e477400081cf8b6-alt.m3u8
 
 #EXTINF:-1 tvg-name="365 Christmas" tvg-id="62fb6d4308f5ec0007453c09" tvg-logo="https://images.pluto.tv/channels/62fb6d4308f5ec0007453c09/colorLogoPNG.png" group-title="Entertainment" ,365 Christmas
@@ -81,10 +81,10 @@ https://r.mjh.nz/PlutoTV/62fb6cd97b90e60007bc318a-alt.m3u8
 #EXTINF:-1 tvg-name="BBC Earth" tvg-id="656535fc2c46f30008870fae" tvg-logo="https://images.pluto.tv/channels/656535fc2c46f30008870fae/colorLogoPNG.png" group-title="Entertainment" ,BBC Earth
 https://r.mjh.nz/PlutoTV/656535fc2c46f30008870fae-alt.m3u8
 
-#EXTINF:-1 tvg-name="BBC Food" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="ttps://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Entertainment",BBC Food
+#EXTINF:-1 tvg-name="BBC Food" tvg-id="5fb5844bf5514d0007945bda" tvg-logo="ttps://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Entertainment" ,BBC Food
 https://r.mjh.nz/PlutoTV/5fb5844bf5514d0007945bda-alt.m3u8
 
-#EXTINF:-1 tvg-name="BBC Home & Garden" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Entertainment",BBC Home & Garden
+#EXTINF:-1 tvg-name="BBC Home & Garden" tvg-id="5fb5836fe745b600070fc743" tvg-logo="https://images.pluto.tv/channels/5fb5836fe745b600070fc743/colorLogoPNG.png" group-title="Entertainment" ,BBC Home & Garden
 https://r.mjh.nz/PlutoTV/5fb5836fe745b600070fc743-alt.m3u8
 
 #EXTINF:-1 tvg-name="Beyond History" tvg-id="62fb9844db5a4a0007ebc2a3" tvg-logo="https://images.pluto.tv/channels/62fb9844db5a4a0007ebc2a3/colorLogoPNG.png" group-title="Entertainment" ,Beyond History
@@ -99,28 +99,28 @@ https://r.mjh.nz/PlutoTV/5dcc42446750e200093b15e2-alt.m3u8
 #EXTINF:-1 tvg-name="Comedy Central tvg-id="64f8a408bd341e000818fcda" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" group-title="Entertainment" ,Comedy Central
 https://r.mjh.nz/PlutoTV/64f8a408bd341e000818fcda-alt.m3u8
 
-#EXTINF:-1 tvg-name="FailArmy" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Entertainment",FailArmy
+#EXTINF:-1 tvg-name="FailArmy" tvg-id="554158e864526b29254ff105" tvg-logo="https://images.pluto.tv/channels/554158e864526b29254ff105/colorLogoPNG.png" group-title="Entertainment" ,FailArmy
 https://r.mjh.nz/PlutoTV/554158e864526b29254ff105-alt.m3u8
 
-#EXTINF:-1 tvg-name="Fishing PlutoTV" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Entertainment",Fishing PlutoTV
+#EXTINF:-1 tvg-name="Fishing PlutoTV" tvg-id="5d4af39510fd17b31a528eda" tvg-logo="https://images.pluto.tv/channels/5d4af39510fd17b31a528eda/colorLogoPNG.png" group-title="Entertainment" ,Fishing PlutoTV
 https://r.mjh.nz/PlutoTV/5d4af39510fd17b31a528eda-alt.m3u8
 
-#EXTINF:-1 tvg-name="Fixers and Flippers" tvg-id="62fb62081afad500077e915e" tvg-logo="https://images.pluto.tv/channels/62fb62081afad500077e915e/colorLogoPNG.png" group-title="Entertainment",Fixers and Flippers
+#EXTINF:-1 tvg-name="Fixers and Flippers" tvg-id="62fb62081afad500077e915e" tvg-logo="https://images.pluto.tv/channels/62fb62081afad500077e915e/colorLogoPNG.png" group-title="Entertainment" ,Fixers and Flippers
 https://r.mjh.nz/PlutoTV/62fb62081afad500077e915e-alt.m3u8
 
 #EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-id="628e685ba3811100070551a8" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/colorLogoPNG.png" group-title="Entertainment" ,Hallmark Movies & More
 https://r.mjh.nz/PlutoTV/628e685ba3811100070551a8-alt.m3u8
 
-#EXTINF:-1 tvg-name="History PlutoTV" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="Entertainment",History PlutoTV
+#EXTINF:-1 tvg-name="History PlutoTV" tvg-id="5d4af1803e7983b391d73b13" tvg-logo="https://images.pluto.tv/channels/5d4af1803e7983b391d73b13/colorLogoPNG.png" group-title="Entertainment" ,History PlutoTV
 https://r.mjh.nz/PlutoTV/5d4af1803e7983b391d73b13-alt.m3u8
 
-#EXTINF:-1 tvg-name="HistoryTime" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" group-title="Entertainment",HistoryTime
+#EXTINF:-1 tvg-name="HistoryTime" tvg-id="62bdaf9cf1bdc500073a8bcb" tvg-logo="https://images.pluto.tv/channels/62bdaf9cf1bdc500073a8bcb/colorLogoPNG.png" group-title="Entertainment" ,HistoryTime
 https://r.mjh.nz/PlutoTV/62bdaf9cf1bdc500073a8bcb-alt.m3u8
 
-#EXTINF:-1 tvg-name="Homeful" tvg-id="62e92967cd663f0007e604fd" tvg-logo="https://images.pluto.tv/channels/62e92967cd663f0007e604fd/colorLogoPNG.png" group-title="Entertainment",Homeful
+#EXTINF:-1 tvg-name="Homeful" tvg-id="62e92967cd663f0007e604fd" tvg-logo="https://images.pluto.tv/channels/62e92967cd663f0007e604fd/colorLogoPNG.png" group-title="Entertainment" ,Homeful
 https://r.mjh.nz/PlutoTV/62e92967cd663f0007e604fd-alt.m3u8
 
-#EXTINF:-1 tvg-name="Homes Under Hammer" tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Entertainment",Homes Under Hammer
+#EXTINF:-1 tvg-name="Homes Under Hammer" tvg-id="5c5c2e9d8002db3c3e0b1c72" tvg-logo="https://images.pluto.tv/channels/5c5c2e9d8002db3c3e0b1c72/colorLogoPNG.png" group-title="Entertainment" ,Homes Under Hammer
 https://r.mjh.nz/PlutoTV/5c5c2e9d8002db3c3e0b1c72-alt.m3u8
 
 #EXTINF:-1 tvg-name="ION" tvg-id="65453f30085df200085883d8" tvg-logo="https://images.pluto.tv/channels/65453f30085df200085883d8/colorLogoPNG.png" group-title="Entertainment" ,ION
@@ -129,7 +129,7 @@ https://r.mjh.nz/PlutoTV/65453f30085df200085883d8-alt.m3u8
 #EXTINF:-1 tvg-name="Kids Movie Club" tvg-id="5db0ad56edc89300090d2ebb" tvg-logo="https://images.pluto.tv/channels/5db0ad56edc89300090d2ebb/colorLogoPNG.png" group-title="Entertainment" ,Kids Movie Club
 https://r.mjh.nz/PlutoTV/5db0ad56edc89300090d2ebb-alt.m3u8
 
-#EXTINF:-1 tvg-name="Love Pets" tvg-id="65265dada6c3830008942a0a" tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png" group-title="Entertainment",Love Pets
+#EXTINF:-1 tvg-name="Love Pets" tvg-id="65265dada6c3830008942a0a" tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png" group-title="Entertainment" ,Love Pets
 https://r.mjh.nz/PlutoTV/65265dada6c3830008942a0a-alt.m3u8
 
 #EXTINF:-1 tvg-name="Modern Marvels" tvg-id="6540ff2d770cf1000866b90a" tvg-logo="https://images.pluto.tv/channels/6540ff2d770cf1000866b90a/colorLogoPNG.png" group-title="Entertainment" ,Modern Marvels
@@ -151,7 +151,7 @@ https://r.mjh.nz/PlutoTV/62bdb6a83c6e37000726823b-alt.m3u8
 https://r.mjh.nz/PlutoTV/62bdb75c3afd1200079146a6-alt.m3u8
 
 #EXTINF:-1 tvg-name="Paramount Movie Channel" tvg-id="5cb0cae7a461406ffe3f5213" tvg-
-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment"  ,Paramount Movie Channel
+logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" group-title="Entertainment" , Paramount Movie Channel
 https://r.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
 
 #EXTINF:-1 tvg-name="Paramount+ Picks" tvg-id="5ff8c708653d080007361b14" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="Entertainment" ,Paramount+ Picks
@@ -247,7 +247,7 @@ https://r.mjh.nz/PlutoTV/5d93b635b43dd1a399b39eee-alt.m3u8
 #EXTINF:-1 tvg-name="XITE Country Today" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Country Today Country
 https://i.mjh.nz/SamsungTVPlus/CABD120001993.m3u8
 
-#EXTINF:-1 tvg-name="XITE Countrys Finest" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music",XITE Countrys Finest
+#EXTINF:-1 tvg-name="XITE Countrys Finest" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Countrys Finest
 https://i.mjh.nz/SamsungTVPlus/CABD1200023UJ.m3u8
 
 #EXTINF:-1 tvg-name="XITE Classic Country" tvg-id="623b92a2ccefed0007b1db48" tvg-logo="https://images.pluto.tv/channels/623b92a2ccefed0007b1db48/colorLogoPNG.png" group-title="Music" ,XITE Classic Country
