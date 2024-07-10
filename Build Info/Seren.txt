@@ -1,6 +1,6 @@
 name="Seren"
-extracted="111433647"
-zipsize="47817378"
+extracted="113006829"
+zipsize="48602845"
 skin="Sestuary"
 created="2024-05-29 13:53:17"
 programs="Newf's Wizard, InputStream Helper (Slyguy Wrapper), SlyGuy Common, Speed Tester"
