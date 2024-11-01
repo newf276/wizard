@@ -1,5 +1,5 @@
 name="FenLight"
-version="1.85"
+version="1.91"
 url="https://www.dropbox.com/scl/fi/calavyll4513z8mdxkmvb/Fenlight.zip?rlkey=q3um759nbgh6wnl72qj9amarl&dl=1"
 minor="http://"
 gui="https://www.dropbox.com/scl/fi/eoeahmcgd04w0zqoxok68/Fenlight_guisettings.zip?rlkey=gj1ygcmn4wwqb31cldaqzqfr0&st=3wsub6x8&dl=1"
