@@ -13,7 +13,7 @@ info="https://raw.githubusercontent.com/newf276/wizard/master/Build%20Info/FenLi
 description="You NEED to have either RealDebrid, or Premiumize for this build to work! (Add to settings of FenLight Addon) This build is designed around your Trakt Collection, Movie and TVShow Menus take you to your trakt show or movie collection, and the next up widget on home screen of Fenlight Skin (basically estuary) shows your next episode and some other widgets for non Trakt collection options. You need to have a Trakt account and must activate in FenLight addon settings.  This build is meant for speed and simplicity."
 
 name="Seren"
-version="6.3"
+version="7.03"
 url="https://www.dropbox.com/scl/fi/d6fjjutnv1x4srfpady9n/Seren.zip?rlkey=6jmbg1givkn70ef5ssduew0ve&st=0d6vkw4s&dl=1"
 minor="http://"
 gui="hhttps://www.dropbox.com/scl/fi/b5gv4qz2otkbxoepydelj/Seren_guisettings.zip?rlkey=wlw68n3o6m4xwtnhofr40rlpw&st=wahn2awb&dl=1"
