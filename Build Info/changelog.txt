@@ -1,0 +1,2 @@
+Version 3.1.6 - Streamlined menu, and removed url2/py2 code. Video previews work now.
+3.1.0 - Initial Release
